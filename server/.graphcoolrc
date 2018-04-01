@@ -1,3 +1,4 @@
 targets:
-  dev: shared-eu-west-1/cjfg4dto21ic40124vpim2inq
   default: dev
+  dev: shared-us-west-2/cj8n7vc0101ya01424ihgryke
+  prod: shared-us-west-2/cj8n7um5800ox0167tzrqj5r9
