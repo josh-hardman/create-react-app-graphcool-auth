@@ -19,8 +19,8 @@ types: ./types.graphql
 
 custom:
   dev:
-    AUTH0_DOMAIN: ${env:REACT_APP_AUTH0_DOMAIN}
-    AUTH0_API_IDENTIFIER: ${env:REACT_APP_AUTH0_API_IDENTIFIER}
+    AUTH0_DOMAIN: ${env:AUTH0_DOMAIN}
+    AUTH0_API_IDENTIFIER: ${env:AUTH0_API_IDENTIFIER}
     
 functions:
 
