@@ -1,0 +1,17 @@
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.join {
+  border: 1px solid #e1e1e1;
+  margin: 5px;
+}
+
+.join:hover {
+  background: #e1e1e1;
+  color: #222 !important;
+  cursor: pointer;
+}
